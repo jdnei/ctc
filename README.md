@@ -1,4 +1,4 @@
-### CTC.run CTC机场官方地址(2026年8月7日更新)
+### CTC.run CTC机场官方地址(2026年8月8日更新)
 CTC.run CTC机场官网地址</br>
 官方最新地址： [www.ctc.run](https://www.ctc.run/#/register?code=QSvfat7f)</br> 
 官方入口地址： [daohang.ctc.run](daohang.ctc.run)</br>
