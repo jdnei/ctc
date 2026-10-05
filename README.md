@@ -1,4 +1,4 @@
-### CTC.run CTC机场官方地址(2026年10月4日更新)
+### CTC.run CTC机场官方地址(2026年10月5日更新)
 CTC.run CTC机场官网地址</br>
 最新地址01：[www.ctc.run](https://to.iix.im/ctc03)</br>
 最新地址02：[www.ctc.run](https://to.iix.im/ctc02)</br>
