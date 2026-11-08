@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-### CTC.run VPN Official Website (Updated November 7, 2026)
+### CTC.run VPN Official Website (Updated November 8, 2026)
 
 Official CTC.run VPN Website<br>
 Latest URL 01: [www.ctc.run](https://to.iix.im/ctc03)<br>
