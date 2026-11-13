@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-### Официальный сайт CTC.run VPN (обновлено 12 ноября 2026)
+### Официальный сайт CTC.run VPN (обновлено 13 ноября 2026)
 
 Официальный сайт CTC.run VPN<br>
 Актуальный адрес 01: [www.ctc.run](https://to.iix.im/ctc03)<br>
