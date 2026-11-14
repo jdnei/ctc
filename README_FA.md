@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-### وب‌سایت رسمی CTC.run VPN  (به‌روزرسانی 13 نوامبر 2026)
+### وب‌سایت رسمی CTC.run VPN  (به‌روزرسانی 14 نوامبر 2026)
 وب‌سایت رسمی CTC.run VPN<br>
 آخرین آدرس ۰۱: [www.ctc.run](https://to.iix.im/ctc03)<br>
 آخرین آدرس ۰۲: [www.ctc.run](https://to.iix.im/ctc02)<br>
